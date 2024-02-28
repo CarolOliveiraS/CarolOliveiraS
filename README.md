@@ -1,19 +1,16 @@
 # Willkommen zu meinem Profil!
 
-## Über mich 🙋‍♀️
-Ich bin ein begeisterter Technologie-Enthusiast mit einer Leidenschaft für Softwareentwicklung und DevOps. Mein Name ist Carolina Oliveira, und ich arbeite kontinuierlich daran, meine Fähigkeiten in verschiedenen Bereichen der Technologie zu verbessern.
-
-## Meine Arbeit ❤️
-Aktuell arbeite ich an verschiedenen Projekten im Bereich DevOps und Softwareentwicklung. Ich habe Erfahrung in der Implementierung von CI/CD-Pipelines, der Automatisierung von Infrastrukturprozessen und der Verwendung von Cloud-Technologien zur Skalierung von Anwendungen. Ich bin auch daran interessiert, moderne Softwarearchitekturen zu erforschen und zu implementieren, um robuste und skalierbare Systeme zu entwickeln.
-
-## Programmiersprachen 💻
-Ich beherrsche mehrere Programmiersprachen, darunter Python, JavaScript, Java und Ruby. Ich bevorzuge jedoch Python für Automatisierungsaufgaben und Backend-Entwicklung sowie JavaScript für Frontend-Entwicklung.
-
-## Ziele 🚀
-In meiner Karriere strebe ich danach, meine Fähigkeiten und Kenntnisse kontinuierlich zu erweitern, um komplexe technologische Herausforderungen zu meistern. Mein Ziel ist es, eine führende Rolle im Bereich DevOps zu übernehmen und innovative Lösungen zu entwickeln, die einen positiven Einfluss auf die IT-Branche haben. Ich strebe danach, ein Experte in meinem Bereich zu werden und zur Weiterentwicklung der Technologie und der Gemeinschaft beizutragen.
-
 <h1 align="center">Hi 👋, I'm Carolina</h1>
 <h3 align="center">A passionate DevOps from Brazil/Germany</h3>
+
+## About me 🙋‍♀️
+I am an enthusiastic technology professional with a passion for software development and DevOps. I am continuously working to improve my skills in various areas of technology.
+
+## My work ❤️
+I am currently working on various projects in the area of DevOps and software development. I have experience in implementing CI/CD pipelines, automating infrastructure processes and using cloud technologies to scale applications. I am also interested in exploring and implementing modern software architectures to develop robust and scalable systems.
+
+## Goals 🚀
+In my career, I strive to continuously expand my skills and knowledge to master complex technological challenges. My goal is to take a leading role in DevOps and develop innovative solutions that have a positive impact on the IT industry. I aspire to become an expert in my field and contribute to the advancement of technology and the community.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carololiveiras&label=Profile%20views&color=0e75b6&style=flat" alt="carololiveiras" /> </p>
 
